@@ -5,7 +5,7 @@ order:
   message: "Welcome to PROD environment order-service of ecomm application"
   contactDetails:
     name: "Linda Mack - PROD Lead"
-    email: "prodsupport@ecomm.com"
+    email: "699d1927f4540cda199f35f153d7e87b1f15b149b8ce1244808b07c353621c46de97e7eef4557eae50e66c276703b860"
   onCallSupport:
     - (256)256-7541
     - (456)456-3254
